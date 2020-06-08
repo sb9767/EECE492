@@ -12,18 +12,12 @@ jun
 
 sik
 
-<<<<<<< HEAD
+
 eeeing gimoring
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 no sibal keep going
-=======
 test branch test -sby
->>>>>>> 51724af34a737e1080caa6dfa48e10dc14dec5a2
-=======
 eeeing gimoring
->>>>>>> parent of e786122... Update README.md
-=======
 test branch test -sby
->>>>>>> parent of 594125a... Merge branch 'test-branch'
+아시발ㅋㅋ
