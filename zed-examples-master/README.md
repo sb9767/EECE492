@@ -6,18 +6,3 @@
 
 # Testing local modification
 
-um is still alive
-
-jun
-
-sik
-
-
-eeeing gimoring
-
-
-no sibal keep going
-test branch test -sby
-eeeing gimoring
-test branch test -sby
-아시발ㅋㅋ
