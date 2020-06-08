@@ -16,6 +16,7 @@ sik
 eeeing gimoring
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 no sibal keep going
 =======
 test branch test -sby
@@ -23,3 +24,6 @@ test branch test -sby
 =======
 eeeing gimoring
 >>>>>>> parent of e786122... Update README.md
+=======
+test branch test -sby
+>>>>>>> parent of 594125a... Merge branch 'test-branch'
