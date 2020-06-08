@@ -3,3 +3,5 @@
 - 6/2	Modified tutorial code, changing spatial map defalut to 'mesh' data from 'fused point cloud'
 
 - 6/8	Github has been uploaded
+
+# Testing local modification
