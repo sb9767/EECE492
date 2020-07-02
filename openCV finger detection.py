@@ -5,9 +5,9 @@ import math
 #from appscript import app
 
 # Environment:
-# OS    : Mac OS EL Capitan
-# python: 3.5
-# opencv: 2.4.13
+# OS    : Windows 10 x64
+# python: 3.7.7
+# opencv: 3.2
 
 # parameters
 cap_region_x_begin=0.5  # start point/total width
